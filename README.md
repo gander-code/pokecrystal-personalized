@@ -20,4 +20,4 @@ This is a disassembly of Pokémon Crystal with some minor QoL changes.
 * Battle transitions now account for enemy level
 
 ### Credit
-* [pret/pokecrystal](https://github.com/pret/pokecrystal) - used as the starting point + tutorial for running shoes used for sprint mechanic
+* [pret/pokecrystal](https://github.com/pret/pokecrystal) - used as the starting point + tutorials (bug fixes + improvements)
