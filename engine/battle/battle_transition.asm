@@ -220,7 +220,7 @@ StartTrainerBattle_DetermineWhichAnimation:
 .wild
 	ld b, PARTY_LENGTH
 	ld hl, wPartyMon1HP
-	ld de, PARTYMON_STRUCT_LENGTH
+	ld de, PARTYMON_STRUCT_LENGTH - 1
 
 .loop
 	ld a, [hli]
