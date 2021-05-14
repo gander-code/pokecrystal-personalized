@@ -8,11 +8,12 @@ This is a disassembly of Pokémon Crystal with some minor QoL changes.
 #### Done
 * Sprinting/Running/Go Fast with B button (same speed as Bicycle)
 * Instant text option
+* Only 4 beeps when a pokemon is at low health in battle
+* A Portable Pocket PC given by Elms Aide
 
 #### To-Do
 * Remove artificial save delay
-* Shorten beep for Low HP
-* Restore GS Ball Celebi Event
+* Restore GS Ball Celebi Event (may not be needed since i'm playing on VC)
 
 ### Bug Fixes
 #### Done
@@ -27,7 +28,9 @@ This is a disassembly of Pokémon Crystal with some minor QoL changes.
 #### To-Do
 * `HELD_CATCH_CHANCE` has no effect
 * Glacier Badge boost doesn't apply in specific scenario
-* Battle transitions don't account for enemy level (the fix for this seems to be causing much longer and glitchy transitions, might not implement if i can't figure out why)
+
+#### Wish to fix
+* Battle transitions don't account for enemy level (the fix causes issues when using the Virtual Console emulator, which is what I'm playing on)
 
 ### Credit
 * [pret/pokecrystal](https://github.com/pret/pokecrystal) - used as the starting point + tutorials (bug fixes + improvements)
