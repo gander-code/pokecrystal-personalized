@@ -7,12 +7,12 @@ This is a disassembly of Pokémon Crystal with some minor QoL changes.
 ### Improvements
 #### Done
 * Sprinting/Running/Go Fast with B button (same speed as Bicycle)
+* Instant text option
 
 #### To-Do
 * Remove artificial save delay
 * Shorten beep for Low HP
 * Restore GS Ball Celebi Event
-* _maybe_ find a way to do instant text
 
 ### Bug Fixes
 #### Done
