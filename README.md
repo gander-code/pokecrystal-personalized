@@ -10,9 +10,9 @@ This is a disassembly of Pokémon Crystal with some minor QoL changes.
 * Instant text option
 * Only 4 beeps when a pokemon is at low health in battle
 * A Portable Pocket PC given by Elms Aide
+* Removed save delays and overwrite prompt (be careful)
 
 #### To-Do
-* Remove artificial save delay
 * Restore GS Ball Celebi Event (may not be needed since i'm playing on VC)
 
 ### Bug Fixes
